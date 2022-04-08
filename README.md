@@ -1,6 +1,8 @@
 ## ⏱ Contador C#
 
 <P>Contador feito em C# para aprimorar os conhecimentos aprendidos</P>
+<p><b>Para rodar o programa basta digitar um <i>dotnet run</i> no console</b></p>
+
 
 
 ## :desktop_computer: Tecnologias utilizadas

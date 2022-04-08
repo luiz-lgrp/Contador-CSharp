@@ -3,7 +3,7 @@
 <P>Contador feito em C# para aprimorar os conhecimentos aprendidos</P>
 <p><b>Para rodar o programa basta digitar um <i>dotnet run</i> no console</b></p>
 
-
+<br>
 
 ## :desktop_computer: Tecnologias utilizadas
  <div>
@@ -12,6 +12,8 @@
   <img align="center" alt="git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">  -
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
 </div>
+
+<br>
 
 ## :raising_hand_man: Contato
 
